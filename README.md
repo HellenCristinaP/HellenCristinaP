@@ -15,8 +15,8 @@
 
 - ⚡ Curiosidade **Eu tenho conhecimento em Python, de vez em quando uso ele para treinar lógica de programação. Amo fazer jogos e surpresas rápidas no Python. Então se tiver qualquer pergunta sobre Python, pode contar comigo!**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://linkedin.com/in/hellen-cristina-araujo-da-silva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hellen-cristina-araujo-da-silva" height="30" width="40" /></a>
 </p>
 
