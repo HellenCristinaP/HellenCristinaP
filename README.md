@@ -9,7 +9,7 @@
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://hellencristinap.github.io/Portifolio_Hellen/](https://hellencristinap.github.io/Portifolio_Hellen/)
 
-- 💬 Pergunte sobre **responsividade, projetos que pode acrescentar, sobre o dotenv, como trabalhar com Tailwind CSS, além do Bootstrap e perguntas relacionadas a HTML, CSS e JS.**
+- 💬 Pergunte sobre **responsividade, projetos que pode acrescentar, sobre o dotenv, como trabalhar com Tailwind CSS e SASS, além do Bootstrap e perguntas relacionadas a HTML, CSS e JS.**
 
 - 📫 Como chegar até mim **hellencrissaraujo28@gmail.com**
 
