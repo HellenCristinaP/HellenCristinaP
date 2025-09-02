@@ -17,7 +17,9 @@
 
 <h3>Minhas contribuições</h3>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=HellenCristinaP&theme=dark&border_radius=6.5&locale=pt_BR&card_width=497)](https://git.io/streak-stats) ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=HellenCristinaP&theme=dark&border_color=9810FA&title_color=FFF&text_color=FFF)
+![Estatísticas GitHub Hellen](https://github-readme-stats.vercel.app/api?username=HellenCristinaP&show_icons=true&theme=midnight-purple)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HellenCristinaP&layout=donut&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="center">Connect with me:</h3>
 
