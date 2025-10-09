@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hellen Cristina</h1>
 <p align="center">Sou estudante de Análise e Desenvolvimento de Sistemas, amo desenvolver a parte visual do site, tenho experiência e, HTML, CSS, JS, jQuery, React e Tailwind CSS. Pretendo aprender Vue.js, Next.js, TypeScript e um pouco de Back-end, como APIs e PHP.</p>
 
-- 🔭 Atualmente estou trabalhando em [Previsão do Tempo](https://github.com/HellenCristinaP/previsao_do_tempo/tree/main)
-
-- 🤝 Meus forks: [Dio Lab](https://github.com/HellenCristinaP/dio-lab-open-source), [Metabolismo Basal](https://github.com/HellenCristinaP/metabolismobasal)
-
-- 🌱 Estou me aprofundando/estudando em **Frameworks: React e Vue.js e TypeScript**
+- 🌱 Estou me aprofundando/estudando em **Frameworks: React, Vue.js e TypeScript**
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://hellencristinap.github.io/Portifolio_Hellen/](https://hellencristinap.github.io/Portifolio_Hellen/)
 
