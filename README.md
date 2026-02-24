@@ -1,21 +1,15 @@
 <h1 align="center">Hi 👋, I'm Hellen Cristina</h1>
-<p align="center">Sou estudante de Análise e Desenvolvimento de Sistemas e estudante de Front-end na EBAC. Amo como meus códigos, viram sites. Tenho experiência em HTML, CSS, JS, jQuery, React e Tailwind CSS. Pretendo aprender Vue.js, Next.js, TypeScript e um pouco de Back-end, como APIs e PHP. Tenho noções de SQL, Banco de Dados e Metodologias Ágeis</p>
+<p align="center">Sou estudante de Análise e Desenvolvimento de Sistemas e estudante de Front-end na EBAC. Amo como meus códigos, viram sites. Tenho experiência em HTML, CSS, JavaScript, Bootstrap, Sass, Tailwind CSS e React. Pretendo aprender Vue.js, Next.js, TypeScript e um pouco de Back-end, como APIs e PHP. Tenho noções de SQL, Banco de Dados e Metodologias Ágeis</p>
 
-- 🌱 Estou me aprofundando/estudando sobre **Frameworks: React e TypeScript** e **Técnicas de SEO, Design e Acessibilidade**
+- 🌱 Estou me aprofundando/estudando sobre **Frameworks: React e TypeScript** e **Técnicas de SEO, Desempenho, Design e Acessibilidade**
 
-- 👨‍💻 Todos os meus projetos estão disponíveis em [https://hellencristinap.github.io/Portifolio_Hellen/](https://hellencristinap.github.io/Portifolio_Hellen/)
+- 👨‍💻 Todos os meus projetos estão disponíveis em [https://hellencristinap.github.io/Portifolio_Hellen/](https://hellencristinap.github.io/Portifolio_Hellen/) ou aqui no GitHub.
 
 - 💬 Pergunte sobre **responsividade, projetos que pode acrescentar, sobre o dotenv, como trabalhar com Tailwind CSS e SASS, além do Bootstrap e perguntas relacionadas a HTML, CSS e JS.**
 
 - 📫 Como chegar até mim **hellencrissaraujo28@gmail.com**
 
-- ⚡ Curiosidade **eu tenho conhecimento em Python, de vez em quando uso ele para treinar lógica de programação. Amo fazer jogos e surpresas rápidas no Python. Então se tiver qualquer pergunta sobre Python, pode contar comigo!**
-
-<h3>Minhas contribuições</h3>
-
-![Estatísticas GitHub Hellen](https://github-readme-stats.vercel.app/api?username=HellenCristinaP&show_icons=true&theme=midnight-purple)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HellenCristinaP&layout=donut&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+- ⚡ Curiosidade **tenho conhecimento em Python, de vez em quando uso ele para treinar lógica de programação. Amo fazer jogos e surpresas rápidas no Python. Então se tiver qualquer pergunta sobre Python, pode contar comigo!**
 
 <h3 align="center">Connect with me:</h3>
 
