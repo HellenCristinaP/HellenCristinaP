@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hellen Cristina</h1>
 <p align="center">Sou estudante de Análise e Desenvolvimento de Sistemas e estudante de Front-end na EBAC. Amo como meus códigos, viram sites. Tenho experiência em HTML, CSS, JavaScript, Bootstrap, Sass, Tailwind CSS e React. Pretendo aprender Vue.js, Next.js, TypeScript e um pouco de Back-end, como APIs e PHP. Tenho noções de SQL, Banco de Dados e Metodologias Ágeis</p>
 
-- 🌱 Estou me aprofundando/estudando sobre **Frameworks: React e TypeScript** e **Técnicas de SEO, Desempenho, Design e Acessibilidade**
+- 🌱 Estou me aprofundando/estudando sobre **React e TypeScript** e **Técnicas de SEO, Desempenho, Design e Acessibilidade**
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://hellencristinap.github.io/Portifolio_Hellen/](https://hellencristinap.github.io/Portifolio_Hellen/) ou aqui no GitHub.
 
